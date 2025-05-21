@@ -260,3 +260,6 @@ paket-files/
 __pycache__/
 *.pyc
 /PralnaDemo/doc/.vshistory/readme.txt
+/PralnaDemo/.vshistory
+/PralnaDemo/App_Start/.vshistory/Startup.Auth.cs
+/PralnaDemo/Views/Shared/.vshistory/_LayoutEmpty.cshtml
